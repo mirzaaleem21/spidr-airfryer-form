@@ -182,7 +182,7 @@ const AirFryerForm: React.FC = () => {
               {/* Cost Guess */}
               <div className="form-group cost-field">
                 <label htmlFor="costGuess" className="form-label">
-                  Guess the Air Fryer's Cost 💰
+                  Guess the Air Fryer's Cost 
                 </label>
                 <div className="input-with-prefix">
                   <span className="input-prefix">$</span>
@@ -204,7 +204,7 @@ const AirFryerForm: React.FC = () => {
               {/* PIN */}
               <div className="form-group full-width">
                 <label htmlFor="spidrPin" className="form-label">
-                  Very, Very Secret 16-Digit Spidr PIN 🕷️
+                  Very, Very Secret 16-Digit Spidr PIN
                 </label>
                 <input
                   id="spidrPin"
@@ -233,7 +233,7 @@ const AirFryerForm: React.FC = () => {
                     <span>Submitting...</span>
                   </div>
                 ) : (
-                  "Submit Interest Form"
+                  "Submit"
                 )}
               </button>
 

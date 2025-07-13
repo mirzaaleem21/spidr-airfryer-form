@@ -59,7 +59,7 @@
 .form-overlay {
   position: absolute;
   top: 50%;
-  left: 65%; /* Moved to the right */
+  left: 79%; /* Moved to the right */
   transform: translate(-50%, -50%);
   width: min(1200px, 85vw); /* Responsive width constraint */
   max-height: 85vh;
