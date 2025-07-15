@@ -4,7 +4,7 @@ A React TypeScript application built for Spidr Design's coding challenge. This p
 
 ## 🎯 Project Overview
 
-This single-page React application features a custom form designed to capture user interest in Spidr Design's "magnificent cooking appliance." The form incorporates Spidr's signature teal color scheme (#479daf) and maintains their clean, professional design language.
+This single-page React application features a custom form designed to capture user interest in Spidr Design's "magnificent cooking appliance."
 
 ## ✨ Features
 
@@ -29,17 +29,9 @@ This single-page React application features a custom form designed to capture us
 
 - **React 18** with TypeScript
 - **CSS3** with custom styling (no external UI libraries)
-- **Raleway Font** (matching Spidr's typography)
 - **Responsive Grid Layout**
 - **Modern ES6+ JavaScript**
 
-## 📱 Design Features
-
-- **Split Layout**: 65% image section, 35% dark background with overlaid form
-- **Teal Color Scheme**: Primary color #479daf matching Spidr branding
-- **Glassmorphism Effect**: Semi-transparent form with backdrop blur
-- **Mobile-First**: Responsive design that adapts to all screen sizes
-- **Accessibility**: Proper labels, ARIA attributes, and keyboard navigation
 
 ## 🏃‍♂️ Getting Started
 
